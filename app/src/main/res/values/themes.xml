@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IntentExample" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.IntentExample" parent="Base.Theme.IntentExample" />
+</resources>

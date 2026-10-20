@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="main_title">Intent Example</string>
+    <string name="main_subtitle">Explicit and implicit Intents</string>
+    <string name="open_second_activity">Open second activity</string>
+    <string name="open_website">Open website</string>
+    <string name="show_location">Show location</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="back_to_main">Back to main activity</string>
+    <string name="no_browser">No application can open this website</string>
+    <string name="no_map_app">No application can display this location</string>
+</resources>
