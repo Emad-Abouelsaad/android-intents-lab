@@ -80,6 +80,10 @@ Since Android 11, an app only sees other apps that it declares it needs, so the 
 
 Tested on the Android Emulator (Pixel 8, API 34).
 
+## Demo video
+
+[IntentExample_demo.mp4](demo/IntentExample_demo.mp4) (about 50 s): opens `SecondActivity` with the message, returns, opens the website and then the map location.
+
 ## Explicit vs implicit Intent
 
 | | Explicit Intent | Implicit Intent |
